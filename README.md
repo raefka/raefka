@@ -1,5 +1,10 @@
 # 💫 About Me:
-I’m interested in solving programming problems and learning new technologies. 🌱 I’m currently learning React, Next.js, and Drizzle ORM. 💞️ I’m looking to collaborate on projects to improve myself.
+
+🌱 I'm currently learning Nextjs/drizzle-orm
+
+👨‍💻 All of my projects are available at https://github.com/raefka
+
+📫 How to reach me raefkacem20@gmail.com
 
 
 <video src="./unwrapped-raefka.mp4" controls width="600"></video>
