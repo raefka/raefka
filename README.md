@@ -1,3 +1,5 @@
+# 👋 Hi there! Welcome to Raef Kacem's GitHub Profile! 🚀
+
 # 💫 About Me:
 
 🌱 I'm currently learning Nextjs/drizzle-orm
