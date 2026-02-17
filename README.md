@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 
-🌱 I'm currently learning Nextjs/drizzle-orm
+🌱 I'm currently learning React native/graphql
 
 👨‍💻 All of my projects are available at https://github.com/raefka
 
